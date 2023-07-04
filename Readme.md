@@ -7,3 +7,4 @@ There are various components in this project:
 3. Instruction Fetch
 4. Register Memory
 5. Instruction Decode
+6. Instruction Memory
