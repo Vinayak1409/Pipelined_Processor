@@ -8,3 +8,4 @@ There are various components in this project:
 4. Register Memory
 5. Instruction Decode
 6. Instruction Memory
+
