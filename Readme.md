@@ -55,7 +55,7 @@ It makes the data available to the input of the ALU for subsequent instructions,
 There are 4 types of pipeline registers that bridge the Instruction Fetch, Instruction Decode, Execute Memory Access and Write Back steps. They are namely; IF/ID, ID/EX, EX/MEM, MEM/WB. 
 
 ## Waveform generated:
-<img width="600" alt="image" src="https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/b3c649fc-cd08-46de-bbec-157dae2adbe9">
+<img width="900" alt="image" src="https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/b3c649fc-cd08-46de-bbec-157dae2adbe9">
 
 
 
