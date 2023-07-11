@@ -11,5 +11,5 @@ There are various components in this project:
 7. ALU Control Unit
 8. Piplinned register.
 9. Stalling and forwarding unit
-10. check
+10. check123
 
