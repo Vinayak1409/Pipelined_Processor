@@ -11,6 +11,7 @@ There are various components in this project:
 7. ALU Control Unit
 8. Pipeline registers.
 9. Stalling and forwarding unit
+10. ALU control
 
 
 
