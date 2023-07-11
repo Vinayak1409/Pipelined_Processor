@@ -2,12 +2,12 @@
 
 In this assignment, a pipelined processor that follows MIPS ISA is designed using Verilog on Xilinx Vivado. The modules used in this project are:
 
-ALU.
-ALU Control Unit.
-Control Unit.
-Program Counter.
-Instruction Fetch Unit.
-Instruction Memory Unit.
+1.ALU.
+2. ALU Control Unit.
+3. Control Unit.
+4. Program Counter.
+5. Instruction Fetch Unit.
+6. Instruction Memory Unit.
 Register File.
 Data Memory Unit.
 Pipeline registers - IF/ID, ID/EX, EX/MEM, MEM/WB.
