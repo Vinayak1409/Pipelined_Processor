@@ -1,4 +1,4 @@
-#Single_Cycle_processor
+#Pipelined_processor
 
 In this assignment, I have designed a single-cycle processor that follows MIPS ISA using Verilog on Xilinx ISE.
 There are various components in this project:
@@ -10,5 +10,5 @@ There are various components in this project:
 6. Instruction Memory
 7. ALU Control Unit
 8. Piplinned register.
-9. Stalling and forwarding unit
-10. check 
+9. Stalling and forwardin unit
+
