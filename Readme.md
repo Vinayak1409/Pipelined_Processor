@@ -9,8 +9,8 @@ There are various components in this project:
 5. Instruction Decode
 6. Instruction Memory
 7. ALU Control Unit
-8. Piplinned register.
+8. Pipeline registers.
 9. Stalling and forwarding unit
-10. check123
-11. ALU control
+
+
 
