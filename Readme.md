@@ -10,5 +10,5 @@ There are various components in this project:
 6. Instruction Memory
 7. ALU control Unit
 8. Piplinned register.
-9. Stalling and forwardin unit
+9. Stalling and forwarding unit
 
