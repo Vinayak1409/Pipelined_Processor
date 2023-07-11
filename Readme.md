@@ -15,7 +15,7 @@ Stalling Unit.
 Forwarding Unit.
 Adders, Shifters, Multiplexers, Sign Extender.
 
-![image](https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/e659bcc8-10e0-48ee-88cb-81f9ed1dd86f)
+![image](https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/e659bcc8-10e0-48ee-88cb-81f9ed1dd86f | width=100))
 
 It also contains a testbench that instantiates all the modules listed above to make connections that result in the processor.
 
