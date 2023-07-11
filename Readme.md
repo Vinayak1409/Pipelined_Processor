@@ -12,5 +12,5 @@ There are various components in this project:
 8. Piplinned register.
 9. Stalling and forwarding unit
 10. check
-
+11. check 2
 
