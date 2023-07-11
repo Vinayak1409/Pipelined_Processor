@@ -12,5 +12,7 @@ There are various components in this project:
 8. Piplinned register.
 9. Stalling and forwarding unit
 10. check123
-11. ALU control
+11. hello
+12. bye
+
 
