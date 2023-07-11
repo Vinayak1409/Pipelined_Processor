@@ -8,7 +8,8 @@ There are various components in this project:
 4. Register Memory
 5. Instruction Decode
 6. Instruction Memory
-7. ALU control Unit
+7. ALU Control Unit
 8. Piplinned register.
-9. Stalling and forwardin unit
+9. Stalling and forwarding unit
+10. check
 
