@@ -14,10 +14,9 @@ In this assignment, a pipelined processor that follows MIPS ISA is designed usin
 10. Stalling Unit.
 11. Forwarding Unit.
 12. Adders, Shifters, Multiplexers, Sign Extender.
+13. It also contains a testbench that instantiates all the modules listed above to make connections that result in the processor.
 
-<img width="600" alt="image" src="https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/e659bcc8-10e0-48ee-88cb-81f9ed1dd86f">
-
-It also contains a testbench that instantiates all the modules listed above to make connections that result in the processor.
+    ![image](https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/83bf0272-0dae-496a-a248-9cae7f4160c2)
 
 The “.mem” files are text-based files representing the initial values for the register file, instruction, and data memory. For this project, we loaded all the values in hexadecimal format.
 
@@ -55,8 +54,7 @@ It makes the data available to the input of the ALU for subsequent instructions,
 There are 4 types of pipeline registers that bridge the Instruction Fetch, Instruction Decode, Execute Memory Access and Write Back steps. They are namely, IF/ID, ID/EX, EX/MEM, and MEM/WB. 
 
 ## Waveform generated:
-<img width="900" alt="image" src="https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/b3c649fc-cd08-46de-bbec-157dae2adbe9">
-
+<img width="600" alt="image" src="https://github.com/Vinayak1409/Pipelined_Processor/assets/83897602/748ae0ab-4ad3-42c8-b031-af009b3cac9d">
 
 
 
